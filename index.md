@@ -527,6 +527,6 @@ header, .context-menu, .megamenu-content, footer{
 -\frac{\hbar^2}{2m}\nabla^2\psi + V\psi &= E\psi \\
 \alpha &= \beta
 \end{align}</script>
-					</div></div><p><span>Cek Pembahasan tentang </span><a href='http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schr.html'><span>persamaan Scrodinger</span></a><span>.</span></p><p>&nbsp;</p></div>
+					</div></div><p><span>Cek Pembahasan tentang </span><a href='http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schr.html' target="_blank"><span>persamaan Scrodinger</span></a><span>.</span></p><p>&nbsp;</p></div>
 </body>
 </html>
