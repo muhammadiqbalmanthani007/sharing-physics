@@ -1,7 +1,3 @@
 # Sharing Physics Info
 
-$$\alpha$$
-
-$$\beta$$
-
-$$\gamma$$
+apapun yang ku bawa
